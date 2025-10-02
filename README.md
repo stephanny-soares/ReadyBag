@@ -1,10 +1,23 @@
 # ReadyBag
 
-ReadyBag es una aplicación diseñada para **organizar, gestionar y acceder fácilmente a tus elementos personales y profesionales**. Permite llevar un control de tus recursos, planificar tareas y consultar información de manera rápida y eficiente.
+**ReadyBag** es una aplicación móvil inteligente que utiliza **Inteligencia Artificial (IA)** para ayudar a planificar y organizar el equipaje de manera rápida y eficiente. La app genera **listas personalizadas y dinámicas** según el destino, la duración del viaje, las actividades previstas y las condiciones climáticas, optimizando el espacio y reduciendo el riesgo de olvidos.
 
-## Objetivo del proyecto
 
-El objetivo principal de ReadyBag es centralizar la gestión de objetos, información y tareas en un solo lugar, facilitando el acceso y control de manera organizada y confiable. La aplicación busca ser escalable y preparada para integrarse con un frontend moderno.
+## Funcionalidades principales
+
+- Listas automáticas con IA: genera equipaje personalizado de acuerdo a las necesidades del usuario.  
+- Optimización de ropa y accesorios: minimiza el peso y maximiza el uso del espacio disponible.  
+- Alertas inteligentes: notificaciones ante cambios de clima o itinerario.  
+- Gestión centralizada: administra objetos, información y tareas desde un único lugar.  
+- Tecnologías abiertas y escalables: compatible con frontend moderno y soluciones open source.  
+
+
+## Beneficios para el usuario
+
+- Ahorro de tiempo en la preparación del equipaje.  
+- Reducción de olvidos y maletas desorganizadas.  
+- Planificación de viajes más eficiente y confiable.  
+- Experiencia adaptada a cada viaje gracias a la Inteligencia Artificial.  
 
 ## Funcionalidades principales
 
