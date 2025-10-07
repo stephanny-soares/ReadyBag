@@ -23,30 +23,8 @@
 
 - Registro y gestión de elementos personales y profesionales.  
 - Acceso rápido a información almacenada.  
-- API REST organizada para integrarse con futuras interfaces de usuario.  
+- API REST organizada para integrarse con interfaces de usuario.  
 - Sistema modular que permite agregar nuevas funcionalidades sin afectar la estructura existente.
-
-## Estructura del proyecto
-
-```
-ReadyBag/
-├─ backend/
-│  ├─ src/
-│  │  ├─ controllers/
-│  │  ├─ routes/
-│  │  ├─ models/
-│  │  ├─ middlewares/
-│  │  └─ utils/
-│  ├─ node_modules/
-│  ├─ .env
-│  ├─ package.json
-│  ├─ package-lock.json
-│  └─ server.js
-├─ frontend/
-├─ .gitignore
-└─ README.md
-
-```
 
 ## Requisitos
 
