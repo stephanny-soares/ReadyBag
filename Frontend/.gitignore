@@ -1,0 +1,67 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+
+# Expo (extras)
+.expo-shared/
+.expo/web*
+
+# Cache varios
+.cache/
+.expo-packager/
+
+# Mapas de fuente (si no quieres subirlos)
+*.map
+
+# IDE/OS (opcionales pero recomendables)
+.vscode/
+.idea/
+Thumbs.db
+
+# Env genérico (además de .env*.local que ya tienes)
+.env
+*.env
+
+# Lock raro que a veces aparece en Windows
+package-lock.json.lck
+
